@@ -1,12 +1,11 @@
 Exemple pour les cours
-======================
+
 
 Les exemples utilisés dans les cours de prorammation de Louis Marchand.
 
 Descriptions des projets
-========================
 
- HEAD
+
 Introduction à Eiffel
 ---------------------
 
@@ -30,3 +29,6 @@ Ce projet contient trois exemples:
 * exthread: Montre l'utilisation des threads en Eiffel.
 * exmutex: Montre l'utilisation des mutex en Eiffel afin de synchroniser des Threads.
  examendc1-eiffelavance-master
+
+Fait par Cédric Lemire
+
